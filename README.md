@@ -37,12 +37,19 @@ It includes stunning UI animations, gradient cards, dynamic theme-based GIFs, an
 TaskFlow is a mini assignment project built using Flutter, aimed at demonstrating:
 
 ✔ State management using Cubit (BLoC)
+
 ✔ Local storage using local JSON file
+
 ✔ Beautiful UI components
+
 ✔ Custom AppBar, Drawer, Gradient Cards
+
 ✔ Dynamic GIF-based Animation
+
 ✔ Light / Dark theme switching
+
 ✔ Clean & scalable folder structure
+
 
 Perfect for showcasing Flutter development architecture, UI/UX ability, and state management flow.
 
@@ -126,14 +133,23 @@ Logout button
 
 ⚙️ Features
 Feature	Description
+
 ✔ BLoC / Cubit State Management	Predictable, fast UI updates
+
 ✔ Local JSON Storage	Tasks persist inside assets/tasks.json
+
 ✔ Add / Edit / Delete Tasks	Full CRUD support
+
 ✔ Custom Home AppBar	Logo + drawer icon combo
+
 ✔ Dynamic GIF Rendering	Based on light/dark mode
+
 ✔ Animations	GIFs, transitions & smooth UI
+
 ✔ Multiple Screens	Full navigation system
+
 ✔ Error-free Validations	Safe form handling
+
 ✔ Clean Architecture	Easy to scale
 
 🌓 Theme System
@@ -181,55 +197,98 @@ Fade image rendering
 
 📂 Folder Structure
 lib/
+
 │
 ├── main.dart
+
 │
 ├── config/
+
 │   ├── app_routes.dart
+
 │   └── theme/
+
 │       ├── light_theme.dart
+
 │       ├── dark_theme.dart
+
 │
 ├── data/
 │   ├── models/
+
 │   │   └── task_model.dart
+
 │   ├── repository/
+
 │   │   └── task_repository.dart
+
 │   └── data_source/
+
 │       └── local_json_loader.dart
+
+
 │
 ├── logic/
+
 │   └── task/
+
 │       ├── task_cubit.dart
+
 │       ├── task_state.dart
+
 │
 ├── presentation/
+
 │   ├── navigation/
+
 │   │   └── bottom_nav_screen.dart
+
 │   ├── screens/
+
 │   │   ├── home_screen.dart
+
 │   │   ├── task_list_screen.dart
+
 │   │   ├── add_task_screen.dart
+
 │   │   ├── edit_task_screen.dart
+
 │   │   └── profile_screen.dart
+
 │   └── widgets/
 │       ├── custom_appbar.dart
+
 │       ├── custom_home_appbar.dart
+
 │       ├── task_item_widget.dart
+
 │       ├── gif_widget.dart
+
 │       └── empty_state_widget.dart
+
+
 │
 └── utils/
+
     ├── constants.dart
+    
     └── validators.dart
+    
 
 assets/
+
 ├── tasks.json
+
 ├── gif/
+
 │   ├── gif2.gif
+
 │   └── gife3.gif
+
 └── images/
+
     ├── task.png
+    
     └── hello.png
 
 🛠 Tech Stack
