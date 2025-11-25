@@ -1,0 +1,29 @@
+name: taskflow
+description: Mini Task Manager Assignment
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  flutter_bloc: ^8.1.4
+  video_player: ^2.8.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/tasks.json
+    - assets/images/task.png
+    - assets/gif/gif2.gif
+    - assets/gif/gif3.gif
+    - assets/images/hello.png
