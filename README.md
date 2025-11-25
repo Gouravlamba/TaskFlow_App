@@ -2,36 +2,22 @@
 
 TaskFlow is a beautifully designed task management mobile app built using Flutter, BLoC state management, Local JSON persistence, and Custom theming (Dark & Light).
 It includes stunning UI animations, gradient cards, dynamic theme-based GIFs, and modular clean folder architecture.
+
 📌 Table of Contents
-
 ✨ Overview
-
 🎯 Objective
-
 📱 Screens Overview
-
 ⚙️ Features
-
 🌓 Theme System
-
 🎞 Animations
-
 📂 Folder Structure
-
 🛠 Tech Stack
-
 📦 Project Setup
-
 ▶️ How to Run
-
 📁 Assets
-
 🧪 Testing
-
 🤝 Contribution
-
 📜 License
-
 ✨ Overview
 
 TaskFlow is a mini assignment project built using Flutter, aimed at demonstrating:
@@ -49,80 +35,54 @@ Perfect for showcasing Flutter development architecture, UI/UX ability, and stat
 🎯 Objective
 
 The objective of TaskFlow is to:
-
 Practice real-world app architecture
-
 Use Local JSON as mock API
-
 Learn BLoC/Cubit for state updates
-
 Demonstrate reusable widgets
-
 Showcase animation skills using GIF
-
 Implement responsive UI
-
 Build a scalable folder structure
 
 📱 Screens Overview
 🏠 Home Screen
 
 Welcome header + custom hello icon
-
 Summary card showing total tasks
-
 Gradient-based statistics widgets
-
 GIF based animation
-
 Access drawer
-
 Navigate to tasks section
 
 📋 Task List Screen
 
 Displays all tasks loaded from local JSON
-
 Edit & Delete buttons
-
 Beautiful card layout for each task
 
 ➕ Add Task Screen
 
 Add title & description
-
 Form validation
-
 Auto-update to JSON using repository
 
 ✏️ Edit Task Screen
 
 Update existing task
-
 Delete task
-
 Validation included
 
 👤 Profile Screen
 
 User avatar
-
 Name
-
 Description
-
 Placeholder for future settings
 
 ☰ Custom Drawer
-
 Profile
-
 Settings
-
 Theme toggle
-
 Logout button
-
 ⚙️ Features
 Feature	Description
 ✔ BLoC / Cubit State Management	Predictable, fast UI updates
@@ -134,28 +94,20 @@ Feature	Description
 ✔ Multiple Screens	Full navigation system
 ✔ Error-free Validations	Safe form handling
 ✔ Clean Architecture	Easy to scale
+
 🌓 Theme System
 
 TaskFlow supports both Dark & Light theme, each with custom color styling.
-
 🌞 Light Theme
-
 Background: soft orange (#F87B1B)
-
 Icon/Text Color: #11224E
-
 Gradient cards: Pink → Orange
 
 🌙 Dark Theme
-
 Background: deep navy blue (#11224E)
-
 Drawer background: full dark
-
 Gradient cards: Pink → Gold
-
 GIF switched automatically
-
 final isDark = Theme.of(context).brightness == Brightness.dark;
 
 🎞 Animations
@@ -166,11 +118,8 @@ Dark Mode	gife3.gif
 isDark ? "assets/gif/gife3.gif" : "assets/gif/gif2.gif";
 
 ✨ Additional Animations
-
 Card elevation hover
-
 Smooth Page Transitions
-
 Fade image rendering
 📂 Folder Structure
 lib/
@@ -238,10 +187,8 @@ Widget Testing	Basic test coverage
 📦 Project Setup
 
 Install Flutter SDK
-
 Clone the repository:
-
-git clone https://github.com/yourusername/taskflow.git
+git clone https://github.com/Gouravlamba/TaskFlow_App.git
 
 
 Navigate to folder:
