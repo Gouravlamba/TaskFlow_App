@@ -292,19 +292,32 @@ assets/
     └── hello.png
 
 🛠 Tech Stack
-Technology	Purpose
-Flutter	UI Framework
-Dart	Programming Language
-BLoC / Cubit	State Management
-JSON	Local data storage
-Material Design	UI Components
-GIF Animation	Visual animations
-Custom Themes	Light & Dark mode
-Widget Testing	Basic test coverage
+
+Technology ||   Purpose
+
+Flutter	   |  UI Framework
+
+Dart	   |  Programming Language
+
+BLoC / Cubit  |	 State Management
+
+JSON      |	  Local data storage
+
+Material Design  |	UI Components
+
+GIF Animation |	Visual animations
+
+Custom Themes |	Light & Dark mode
+
+Widget Testing  |	Basic test coverage
+
+
 📦 Project Setup
 
 Install Flutter SDK
+
 Clone the repository:
+
 git clone https://github.com/Gouravlamba/TaskFlow_App.git
 
 
