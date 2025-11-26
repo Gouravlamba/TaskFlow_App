@@ -195,6 +195,12 @@ Smooth Page Transitions
 
 Fade image rendering
 
+## 🎬 Demo Video
+
+[![Demo](assets/screenshort.png)](https://drive.google.com/file/d/1K9V_ocZkuOf8TBdlrr9z3-fbQEut_n_6/view?usp=sharing)
+
+
+
 📂 Folder Structure
 lib/
 
