@@ -2,7 +2,7 @@
 ## here is the them 
 ## theme for building mobilils
 ## to build somthing new you need to take this
-## this is my new mobile phone
+
 
 
 
