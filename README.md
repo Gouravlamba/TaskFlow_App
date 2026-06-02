@@ -5,7 +5,7 @@
 ## this is my new mobile phone
 ## this is the code that do you want
 ## if you want coding then you need this
-## today we will discuss about this role
+
 
 
 
