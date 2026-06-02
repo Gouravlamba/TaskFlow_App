@@ -7,7 +7,7 @@
 ## if you want coding then you need this
 ## today we will discuss about this role
 ## this role required for the building mobile applications
-## to do somthing new you need this plartform
+
 
 TaskFlow is a beautifully designed task management mobile app built using Flutter, BLoC state management, Local JSON persistence, and Custom theming (Dark & Light).
 It includes stunning UI animations, gradient cards, dynamic theme-based GIFs, and modular clean folder architecture.
