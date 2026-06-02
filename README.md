@@ -2,6 +2,7 @@
 ## here is the them 
 ## theme for building mobilils
 ## to build somthing new you need to take this
+## this is my new mobile phone
 
 TaskFlow is a beautifully designed task management mobile app built using Flutter, BLoC state management, Local JSON persistence, and Custom theming (Dark & Light).
 It includes stunning UI animations, gradient cards, dynamic theme-based GIFs, and modular clean folder architecture.
