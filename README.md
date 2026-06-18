@@ -2,7 +2,7 @@
 ## here is the data base for this application
 ## to use data base for more efficiante 
 ## we also need to apply this section of code here
-## for this you can write your code smoothly
+
 
 
 
