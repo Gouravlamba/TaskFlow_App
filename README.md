@@ -1,6 +1,7 @@
 🚀 TaskFlow – Smart Task Manager App (Flutter BLoC + Local JSON + Dark/Light Theme)
 ## here is the data base for this application
 ## to use data base for more efficiante 
+## we also need to apply this section of code here
 TaskFlow is a beautifully designed task management mobile app built using Flutter, BLoC state management, Local JSON persistence, and Custom theming (Dark & Light).
 It includes stunning UI animations, gradient cards, dynamic theme-based GIFs, and modular clean folder architecture.
 
